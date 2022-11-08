@@ -1,0 +1,3 @@
+check what's equipped
+check stats whenever
+fix hallway 2 to tell you theres another door right away
